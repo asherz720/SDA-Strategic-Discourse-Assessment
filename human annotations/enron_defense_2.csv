@@ -1,0 +1,1987 @@
+,answer,source,question,responder,all_history,speaker_from,relevance_rate,manner_rate,quality_rate,Committment_value,consistency_value,outcome_value,outcome_reason,annotator,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+42,"And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?",enron_defense_2,"Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+",Prosecution,1,3,1,4,0,Questioner,I choose this side because my personal emotions and bias towards this side/the other side. [Emotions],serendipity7@hanyang.ac.kr,0,1,0,-1.0,0.0,0.5,0.0,0.5,-1.828936414281385,-2.3309328392915183,-0.12067601032868268,0.5019964250101332
+43,"Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.",enron_defense_2,Are you having trouble with that question? I’m just posing the same question?,D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+",Prosecution,1,2,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.0,0.5,0.0,0.5,0.5,-1.7475498742144755,-2.3309328392915183,-0.14303921483966475,0.5833829650770428
+44,I – I – I don’t know that I contacted witnesses.,enron_defense_2,Have you contacted witnesses to get your story straight?,D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+",Prosecution,1,3,2,2,0,Witness,"{'choices': ['I choose this side because of their logical arguments are convincing.[Logical facts]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",serendipity7@hanyang.ac.kr,0,1,0,0.3333333333333333,1.0,0.4,1.5,0.9,-1.5847767940806563,-2.048870378066326,-0.12772114682545108,0.4640935839856699
+45,"Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?",enron_defense_2,"[Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+",Prosecution,1,4,1,4,0,Questioner,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,0.0,0.0,0.5,1.5,1.4,-1.5847767940806563,-1.6962923015348361,-0.03398755228995284,0.11151550745417982
+46,"I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.",enron_defense_2,"What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+",Prosecution,1,3,1,2,0,Questioner,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,-0.2,1.0,0.4,2.5,1.7999999999999998,-1.4220037139468371,-1.414229840309644,0.0027409144869351156,-0.007773873637193063
+47,"I think we're now getting into form over substance, Mr. Hueston.",enron_defense_2,"Even though that's not what's called for by the code of conduct that you wrote, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+",Prosecution,1,3,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,0.0,1.0,0.4,3.5,2.1999999999999997,-1.259230633813018,-1.132167379084452,0.05313346170034378,-0.12706325472856594
+48,"No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.",enron_defense_2,"Well, that's what you would call your rules, then, form over substance, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+",Prosecution,1,3,2,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,0.14285714285714285,1.0,0.4,4.5,2.5999999999999996,-1.0964575536791987,-0.8501049178592598,0.126557785543474,-0.24635263581993894
+49,"Rules are important, but they should not-you should not be a slave to rules, either....",enron_defense_2,"Right. The rules were important, but you didn't follow them?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+",Prosecution,1,3,2,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,0.25,1.0,0.4,5.5,3.0,-0.9336844735453795,-0.5680424566340674,0.2434810281171559,-0.36564201691131215
+50,"I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.",enron_defense_2,"One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+",Prosecution,1,1,3,3,0,Questioner,"{'choices': ['I choose this side because of their logical arguments are convincing.[Logical facts]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",serendipity7@hanyang.ac.kr,0,0,1,0.1111111111111111,0.5,0.1,6.0,3.1,-0.8522979334784699,-0.4975268413277693,0.26282751566893287,-0.35477109215070063
+51,"Yes, it was....",enron_defense_2,"Selling property in Aspen, in fact, was not a long, tedious process for you, was it?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.2,0.5,0.0,6.5,3.1,-0.7709113934115603,-0.4975268413277693,0.2155284700480295,-0.27338455208379103
+52,Yes.,enron_defense_2,"Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.2727272727272727,0.5,0.0,7.0,3.1,-0.6895248533446507,-0.4975268413277693,0.16174359792297452,-0.19199801201688144
+53,I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....,enron_defense_2,"And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+",Prosecution,1,3,3,2,0,Questioner,I choose this side because my personal emotions and bias towards this side/the other side. [Emotions],serendipity7@hanyang.ac.kr,0,1,1,0.16666666666666666,1.0,0.6000000000000001,8.0,3.7,-0.5267517732108316,-0.074433149489981,0.7523785222171194,-0.4523186237208505
+54,Yes.,enron_defense_2,"All right. Now, listing date was January 21st, right, sir?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.23076923076923078,0.5,0.0,8.5,3.7,-0.4453652331439219,-0.074433149489981,0.7136076141183199,-0.3709320836539409
+55,"Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.",enron_defense_2,"The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+",Prosecution,1,1,3,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,1,0.2857142857142857,0.5,0.1,9.0,3.8000000000000003,-0.3639786930770123,-0.003917534183682897,0.9787030477977319,-0.3600611588933294
+56,Yes.,enron_defense_2,"You got $10 million, the full asking price, within two days, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.3333333333333333,0.5,0.0,9.5,3.8000000000000003,-0.2825921530101027,-0.003917534183682897,0.9726533910803985,-0.2786746188264198
+57,It was.,enron_defense_2,"And, in fact, it was an all-cash offer, as well, wasn’t it?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.375,0.5,0.0,10.0,3.8000000000000003,-0.2012056129431931,-0.003917534183682897,0.9618030998592297,-0.1972880787595102
+58,Yes.,enron_defense_2,"Stock first, sales of real estate later?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+",Prosecution,1,1,3,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,1,0.4117647058823529,1.0,0.2,11.0,4.0,-0.038432532809373914,0.137113696428913,-1.7789233811135199,-0.17554622923828692
+59,"Yes, it is.",enron_defense_2,". . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.4444444444444444,0.5,0.0,11.5,4.0,0.04295400725753568,0.137113696428913,-0.5229127002993124,-0.09415968917137732
+60,"That appears to be, yes.",enron_defense_2,"All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+",Prosecution,1,2,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.47368421052631576,0.5,0.0,12.0,4.0,0.12434054732444529,0.137113696428913,-0.048854242796369386,-0.01277314910446771
+61,"If I did go back to Enron on the line of credit, I usually would go for the full amount.",enron_defense_2,"And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+",Prosecution,1,3,2,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,0.5,1.0,0.4,13.0,4.4,0.28711362745826446,0.41917615765410543,-0.1869806600343653,-0.13206253019584097
+62,I most usually would do that in order to have some additional liquidity versus whatever the margin call was.,enron_defense_2,"[S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+",Prosecution,1,3,2,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,0.5238095238095238,0.5,0.2,13.5,4.6000000000000005,0.36850016752517406,0.5602073882667016,-0.20642366861984413,-0.19170722074152752
+63,Apparently not....,enron_defense_2,"All right. So a good $3.5 million was not required by the margin call that day, correct?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.5454545454545454,0.5,0.0,14.0,4.6000000000000005,0.44988670759208366,0.5602073882667016,-0.10921822147749803,-0.11032068067461792
+64,"Well, apparently.",enron_defense_2,"So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.5652173913043478,0.5,0.0,14.5,4.6000000000000005,0.5312732476589933,0.5602073882667016,-0.026509073688851064,-0.02893414060770827
+65,I'm sorry. An e-mail by Mr. Herrold when?,enron_defense_2,"So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+",Prosecution,1,2,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.5833333333333334,0.5,0.0,15.0,4.6000000000000005,0.6126597877259029,0.5602073882667016,0.044721517093195606,0.052452399459201327
+66,Yes.,enron_defense_2,"Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6,0.5,0.0,15.5,4.6000000000000005,0.6940463277928125,0.5602073882667016,0.10670802710203832,0.13383893952611092
+67,Yes.,enron_defense_2,– Enron stock?,D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6153846153846154,0.5,0.0,16.0,4.6000000000000005,0.7754328678597221,0.5602073882667016,0.16114030601114837,0.21522547959302052
+68,Yes.,enron_defense_2,"So, that's choice number one, $11 million available?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6296296296296297,0.5,0.0,16.5,4.6000000000000005,0.8568194079266317,0.5602073882667016,0.20931997930931265,0.2966120196599301
+69,That appears to be so.,enron_defense_2,"And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+",Prosecution,1,2,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6428571428571429,0.5,0.0,17.0,4.6000000000000005,0.9382059479935413,0.5602073882667016,0.2522658805682101,0.3779985597268397
+70,"There were other options, Mr. Hueston.",enron_defense_2,"All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6551724137931034,0.5,0.0,17.5,4.6000000000000005,1.0195924880604508,0.5602073882667016,0.290786894389285,0.4593850997937492
+71,He did.,enron_defense_2,"All right. Now, Mr. Beau Herrold assisted you in managing your finances?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+D_WITNESS: There were other options, Mr. Hueston.
+
+PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6666666666666666,0.5,0.0,18.0,4.6000000000000005,1.1009790281273604,0.5602073882667016,0.32553338657470604,0.5407716398606588
+72,"Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.",enron_defense_2,"But you ultimately were in charge, correct? He took direction from you?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+D_WITNESS: There were other options, Mr. Hueston.
+
+PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
+D_WITNESS: He did.
+
+PROSECUTION: But you ultimately were in charge, correct? He took direction from you?
+",Prosecution,1,2,2,1,0,Questioner,I choose this side because my personal emotions and bias towards this side/the other side. [Emotions],serendipity7@hanyang.ac.kr,0,0,0,0.6129032258064516,0.0,1.0,18.0,5.6000000000000005,1.1009790281273604,1.265363541329682,-0.06946775810234428,-0.1643845132023216
+73,"Yes, it would . . .",enron_defense_2,"Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+D_WITNESS: There were other options, Mr. Hueston.
+
+PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
+D_WITNESS: He did.
+
+PROSECUTION: But you ultimately were in charge, correct? He took direction from you?
+D_WITNESS: Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.
+
+PROSECUTION: Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.625,0.5,0.0,18.5,5.6,1.18236556819427,1.2653635413296813,-0.033908152994737754,-0.08299797313541135
+76,"Yes. Yes, it is.",enron_defense_2,"I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+D_WITNESS: There were other options, Mr. Hueston.
+
+PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
+D_WITNESS: He did.
+
+PROSECUTION: But you ultimately were in charge, correct? He took direction from you?
+D_WITNESS: Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.
+
+PROSECUTION: Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?
+D_WITNESS: Yes, it would . . .
+
+PROSECUTION: It’s an e-mail from Mr. Herrold to you, dated May 21st, 2001.
+nan: nan
+
+COURT: All right. It's admitted.
+nan: nan
+
+PROSECUTION: I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6363636363636364,0.5,0.0,19.0,5.6,1.2637521082611798,1.2653635413296813,-0.0006371527805627304,-0.0016114330685015332
+77,Yes.,enron_defense_2,"Okay. One choice was to use $5.9 million of available monies on your Bank of America line of credit, correct?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+D_WITNESS: There were other options, Mr. Hueston.
+
+PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
+D_WITNESS: He did.
+
+PROSECUTION: But you ultimately were in charge, correct? He took direction from you?
+D_WITNESS: Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.
+
+PROSECUTION: Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?
+D_WITNESS: Yes, it would . . .
+
+PROSECUTION: It’s an e-mail from Mr. Herrold to you, dated May 21st, 2001.
+nan: nan
+
+COURT: All right. It's admitted.
+nan: nan
+
+PROSECUTION: I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?
+D_WITNESS: Yes. Yes, it is.
+
+PROSECUTION: Okay. One choice was to use $5.9 million of available monies on your Bank of America line of credit, correct?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6470588235294118,0.5,0.0,19.5,5.6,1.3451386483280894,1.2653635413296813,0.030559295186366554,0.07977510699840806
+78,Yes.,enron_defense_2,"And the other was to use money from your Enron line of credit, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+D_WITNESS: There were other options, Mr. Hueston.
+
+PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
+D_WITNESS: He did.
+
+PROSECUTION: But you ultimately were in charge, correct? He took direction from you?
+D_WITNESS: Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.
+
+PROSECUTION: Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?
+D_WITNESS: Yes, it would . . .
+
+PROSECUTION: It’s an e-mail from Mr. Herrold to you, dated May 21st, 2001.
+nan: nan
+
+COURT: All right. It's admitted.
+nan: nan
+
+PROSECUTION: I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?
+D_WITNESS: Yes. Yes, it is.
+
+PROSECUTION: Okay. One choice was to use $5.9 million of available monies on your Bank of America line of credit, correct?
+D_WITNESS: Yes.
+
+PROSECUTION: And the other was to use money from your Enron line of credit, right?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6571428571428571,0.5,0.0,20.0,5.6,1.426525188394999,1.2653635413296813,0.05986935688898288,0.16116164706531766
+79,Yes . . .,enron_defense_2,"And when you're using the Enron line of credit, just so the jury is clear, you were paying it back with Enron stock, right?",D_WITNESS,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
+D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?
+
+PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
+D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.
+
+PROSECUTION: Have you contacted witnesses to get your story straight?
+D_WITNESS: I – I – I don’t know that I contacted witnesses.
+
+PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
+D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?
+
+PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
+D_WITNESS: I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.
+
+PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
+D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
+
+PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
+D_WITNESS: No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.
+
+PROSECUTION: Right. The rules were important, but you didn't follow them?
+D_WITNESS: Rules are important, but they should not-you should not be a slave to rules, either....
+
+PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
+D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.
+
+PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
+D_WITNESS: Yes, it was....
+
+PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
+D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....
+
+PROSECUTION: All right. Now, listing date was January 21st, right, sir?
+D_WITNESS: Yes.
+
+PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
+D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.
+
+PROSECUTION: You got $10 million, the full asking price, within two days, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
+D_WITNESS: It was.
+
+PROSECUTION: Stock first, sales of real estate later?
+D_WITNESS: Yes.
+
+PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
+D_WITNESS: Yes, it is.
+
+PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
+D_WITNESS: That appears to be, yes.
+
+PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
+D_WITNESS: If I did go back to Enron on the line of credit, I usually would go for the full amount.
+
+PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
+D_WITNESS: I most usually would do that in order to have some additional liquidity versus whatever the margin call was.
+
+PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
+D_WITNESS: Apparently not....
+
+PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
+D_WITNESS: Well, apparently.
+
+PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
+D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
+
+PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
+D_WITNESS: Yes.
+
+PROSECUTION: – Enron stock?
+D_WITNESS: Yes.
+
+PROSECUTION: So, that's choice number one, $11 million available?
+D_WITNESS: Yes.
+
+PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
+D_WITNESS: That appears to be so.
+
+PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
+D_WITNESS: There were other options, Mr. Hueston.
+
+PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
+D_WITNESS: He did.
+
+PROSECUTION: But you ultimately were in charge, correct? He took direction from you?
+D_WITNESS: Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.
+
+PROSECUTION: Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?
+D_WITNESS: Yes, it would . . .
+
+PROSECUTION: It’s an e-mail from Mr. Herrold to you, dated May 21st, 2001.
+nan: nan
+
+COURT: All right. It's admitted.
+nan: nan
+
+PROSECUTION: I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?
+D_WITNESS: Yes. Yes, it is.
+
+PROSECUTION: Okay. One choice was to use $5.9 million of available monies on your Bank of America line of credit, correct?
+D_WITNESS: Yes.
+
+PROSECUTION: And the other was to use money from your Enron line of credit, right?
+D_WITNESS: Yes.
+
+PROSECUTION: And when you're using the Enron line of credit, just so the jury is clear, you were paying it back with Enron stock, right?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,0.6666666666666666,0.5,0.0,20.5,5.6,1.5079117284619086,1.2653635413296813,0.08745911009059501,0.24254818713222726

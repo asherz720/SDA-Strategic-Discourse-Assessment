@@ -1,0 +1,84 @@
+            messages=[
+                {"role": "user", "content": f"""
+                 You are a juror in a cross-examination. Your role is to evaluate witness responses and determine which side is more convincing based on the conversation.
+                 A strategic witness does not assume a common goal. The following Gricean Maxims can be reliably violated to retrieve interests or minimize losses from making a commitment:
+                Truthfulness (Quality): avoid falsehoods and speaks only what they believe to be true.
+                Relevance: addresse the specific question being asked.
+                Clarity (Manner): avoid vagueness, ambiguity, or unnecessary complexity.
+                Accordingly, judgments about the witness’s commitment should be based on whether the response advances the witness’s interests (i.e., winning potential)
+                 Below is the transcript of the cross-examination so far:
+                {history}
+
+                The current response from the witness is: {answer}
+
+                Instructions:
+                Please evaluate the current response based on following properties:
+                1. Witness commitment level (with respect to the immediate question):
+                   - 1: Detrimental commitment (contributing to questioner's winning not the witness's)
+                   - 2: Beneficial commitment (contributing to witness's winning not the questioner's)
+                   - 3: Neutral commitment
+                   - 4: No commitment made
+                   
+                2. Witness truthfulness in current turn:
+                   - 1: Truthful
+                   - 0: Not truthful
+                   
+                3. Consistency with previous testimony:
+                   - 1: Inconsistent
+                   - 0: Consistent
+                   
+                4. Response relevance:
+                   - 1: Very relevant
+                   - 2: Slightly relevant
+                   - 3: Slightly irrelevant 
+                   - 4: Irrelevant 
+                
+                5. Response clarity:
+                   - 1: Very clear
+                   - 2: Slightly clear with hedging
+                   - 3: Slightly unclear
+                   - 4: Unclear
+                   
+                6. Current turn outcome:
+                   - Questioner
+                   - Witness
+                
+                7. Reasons for current outcome:
+                    - 1. Logical arguments are convincing
+                    - 2. Credibility attack on other side
+                    - 3. Emotional appeal/bias
+
+                Here are some examples:
+                Example 1:
+                Question: Are you taking any medication?
+                response: I might have taken some.
+                This response is a detrimental commitment as taking medication indicates mental instability. 
+                This response is relevant (1) but not clear with hedging (3), and truthful (1).
+                The winner is Questioner and the reason is logical arguments.
+
+                Example 2:
+                Question: Have you been to the place where the body was found?
+                Response: I think I have no reason to go to place like that.
+                This response is a beneficial commitment as not have gone to the crime spot indicates alibi. 
+                This response is relevant (1), unclear with hedging (3), and truthful (1).
+                The winner is Witness and the reason is logical arguments.
+
+                Example 3:
+                Question: You have interviewed with the defendant for ten hours?
+                Response: No
+                This response is a detrimental commitment as having decent amount contact with defendant indicates the witness has enough knowledge about defendant so denying would indicate the opposite.
+                This response is relevant (1), clear (1), and truthful (1).
+                The winner is Questioner and the reason is logical arguments.
+                
+                Provide your response in JSON format:
+                {{
+                    "belief": "Explanation of your decision on the winner",
+                    "Commitment_value": "Commitment level (1-4)",
+                    "quality_rate": "Truthfulness (0,1)", 
+                    "consistency_value": "Consistency (0,1)",
+                    "relevance_rate": "Relevance (1-4)",
+                    "manner_rate": "Clarity (1-4)", 
+                    "outcome_value": "Winner of current turn (Questioner/Witness)",
+                    "outcome_reason": "Reason for the outcome (1-3)"
+                }}"""}
+            ]

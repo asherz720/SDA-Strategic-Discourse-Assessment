@@ -1,0 +1,1398 @@
+,answer,source,question,responder,all_history,speaker_from,relevance_rate,manner_rate,quality_rate,Committment_value,consistency_value,outcome_value,outcome_reason,annotator,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+39,No.,simpson_defense_7,Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,1.0,0.0,1.0,0.0,-1.8120164259871836,-1.6302995207687572,0.052789141969864076,-0.18171690521842643
+40,No.,simpson_defense_7,Did you authorize your attorneys to sell the transcript?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,1.0,0.0,2.0,0.0,-1.5357944098306007,-1.6302995207687572,-0.02984911787511819,0.0945051109381565
+41,No.,simpson_defense_7,Did you authorize them to sell the audiotapes?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,1.0,0.0,3.0,0.0,-1.2595723936740177,-1.6302995207687572,-0.1282849683551539,0.37072712709473943
+42,Have I discussed that with anyone?,simpson_defense_7,Have you ever discussed with anyone selling the audiotapes for one-half million dollars?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+",Prosecution,1,4,2,4,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,1,0,1.0,0.0,0.5,3.0,0.5,-1.2595723936740177,-1.42792867658197,-0.06264417334424213,0.16835628290795235
+43,"No, I have not discussed it with anyone.",simpson_defense_7,Yes.,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,1.0,0.0,4.0,0.5,-0.9833503775174349,-1.42792867658197,-0.1843744705983779,0.44457829906453517
+44,"I have authorized my attorneys to determine the value of the tapes, yes.",simpson_defense_7,Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+",Prosecution,1,1,1,1,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.0,1.0,4.0,1.5,-0.9833503775174349,-1.023186988208396,-0.019853410841691847,0.039836610690961005
+45,It is more to know what the value of the tapes were and I authorized my attorneys to do that.,simpson_defense_7,"If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?",D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+",Prosecution,1,1,2,1,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.0,1.0,4.0,2.5,-0.9833503775174349,-0.6184452998348217,0.22781000276252195,-0.36490507768261327
+46,No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.,simpson_defense_7,And that is because you were considering selling the tapes at the time?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,1.0,0.0,5.0,2.5,-0.707128361360852,-0.6184452998348217,0.06690164728079902,-0.08868306152603034
+47,Yes.,simpson_defense_7,Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+",Prosecution,1,1,1,1,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.0,1.0,5.0,3.5,-0.707128361360852,-0.2137036114612474,0.5358466739457276,-0.4934247498996046
+48,"Yes, I do.",simpson_defense_7,"Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?",D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,1.0,0.0,6.0,3.5,-0.4309063452042692,-0.2137036114612474,0.33695218557681494,-0.2172027337430218
+49,No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.,simpson_defense_7,But you don't remember what came to mind at the time?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+",Prosecution,1,1,1,2,0,Witness,"{'choices': ['I choose this side because of their logical arguments are convincing.[Logical facts]', 'I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",rileyzcx@connect.hku.hk,0,0,0,1.0,1.0,0.0,7.0,3.5,-0.1546843290476863,-0.2137036114612474,-0.16020959408178514,0.05901928241356108
+50,"I think it is one of the most vile words in the English language, yes.",simpson_defense_7,You understand that that word is the most vile word in the English language?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+",Prosecution,1,1,1,1,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.0,1.0,7.0,4.5,-0.1546843290476863,0.19103807691232685,-9.509952240612854,-0.34572240596001313
+51,"Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?",simpson_defense_7,You think there are worse?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+",Prosecution,3,2,1,2,0,Witness,"{'choices': ['I choose this side because of their logical arguments are convincing.[Logical facts]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",rileyzcx@connect.hku.hk,1,0,0,1.0,1.0,0.4,8.0,4.9,0.12153768710889656,0.3529347522617567,-0.48769337468744944,-0.23139706515286013
+52,That is accurate.,simpson_defense_7,"You wrote a screenplay, right?",D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.5,0.0,8.5,4.9,0.25964869518718803,0.3529347522617567,-0.152283019502161,-0.09328605707456866
+53,Yes.,simpson_defense_7,Did you use that word in the screenplay?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.5,0.0,9.0,4.9,0.39775970326547944,0.3529347522617567,0.05971131220389897,0.044824951003722746
+54,Certainly.,simpson_defense_7,Did you attempt to out and sell that screenplay?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.5,0.0,9.5,4.9,0.5358707113437708,0.3529347522617567,0.20582227109621523,0.18293595908201415
+55,Have I had one screenplay made into a film?,simpson_defense_7,You have had one screenplay published or made into a film?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+",Prosecution,1,3,2,4,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,1,0,1.0,0.0,0.5,9.5,5.4,0.5358707113437708,0.5553055964485438,-0.01781094857539012,-0.01943488510477298
+56,No.,simpson_defense_7,Yes.,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.5,0.0,10.0,5.4,0.6739817194220623,0.5553055964485438,0.09654059017884656,0.11867612297351848
+57,That is accurate.,simpson_defense_7,"You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?",D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+D_WITNESS: No.
+
+PROSECUTION: When Mark Fuhrman used these words in your presence why didn't you just tell him to stop?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of that question. I object to the form of that question.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: Argumentative.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.5,0.0,10.5,5.4,0.8120927275003538,0.5553055964485438,0.1877924863255914,0.25678713105180995
+58,That is true.,simpson_defense_7,And yet you use this epithet in your screenplay anyway; is that also correct?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+D_WITNESS: No.
+
+PROSECUTION: When Mark Fuhrman used these words in your presence why didn't you just tell him to stop?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of that question. I object to the form of that question.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: Argumentative.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
+D_WITNESS: That is accurate.
+
+PROSECUTION: And yet you use this epithet in your screenplay anyway; is that also correct?
+",Prosecution,1,1,1,1,0,Questioner,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.9,0.0,1.0,10.5,6.4,0.8120927275003538,0.9600472848221181,-0.08348920304996839,-0.14795455732176432
+59,"I felt that you were. I don't feel adversarial toward you, but I felt that there was something negative coming from some of your questions, yes.",simpson_defense_7,"Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?",D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+D_WITNESS: No.
+
+PROSECUTION: When Mark Fuhrman used these words in your presence why didn't you just tell him to stop?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of that question. I object to the form of that question.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: Argumentative.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
+D_WITNESS: That is accurate.
+
+PROSECUTION: And yet you use this epithet in your screenplay anyway; is that also correct?
+D_WITNESS: That is true.
+
+PROSECUTION: Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?
+",Prosecution,2,2,1,2,0,Witness,"{'choices': ['I choose this side because of their logical arguments are convincing.[Logical facts]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",rileyzcx@connect.hku.hk,0,0,0,0.9047619047619048,1.0,0.0,11.5,6.4,1.0883147436569367,0.9600472848221181,0.06261952577301946,0.1282674588348186
+60,That's correct.,simpson_defense_7,Correct?,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+D_WITNESS: No.
+
+PROSECUTION: When Mark Fuhrman used these words in your presence why didn't you just tell him to stop?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of that question. I object to the form of that question.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: Argumentative.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
+D_WITNESS: That is accurate.
+
+PROSECUTION: And yet you use this epithet in your screenplay anyway; is that also correct?
+D_WITNESS: That is true.
+
+PROSECUTION: Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?
+D_WITNESS: I felt that you were. I don't feel adversarial toward you, but I felt that there was something negative coming from some of your questions, yes.
+
+PROSECUTION: Okay. You didn't stop him the first time he used the epithet, correct?
+nan: nan
+
+PROSECUTION: Your Honor, that has be asked and answered.
+nan: nan
+
+COURT: It has.
+nan: nan
+
+PROSECUTION: Well, you didn't stop him the twentieth time he used the epithet?
+nan: nan
+
+PROSECUTION: Asked and answered.
+nan: nan
+
+COURT: That has not. Overruled.
+nan: nan
+
+PROSECUTION: Correct?
+",Prosecution,1,1,1,2,0,Witness,"{'choices': ['I choose this side because of their logical arguments are convincing.[Logical facts]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",rileyzcx@connect.hku.hk,0,0,0,0.9090909090909091,1.0,0.0,12.5,6.4,1.3645367598135194,0.9600472848221181,0.17400509821308793,0.4044894749914013
+61,"I didn't abridge his dialogue or conversation during an interview, no.",simpson_defense_7,"You didn't stop him the fortieth or forty-second time that he used the epithet, correct?",D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+D_WITNESS: No.
+
+PROSECUTION: When Mark Fuhrman used these words in your presence why didn't you just tell him to stop?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of that question. I object to the form of that question.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: Argumentative.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
+D_WITNESS: That is accurate.
+
+PROSECUTION: And yet you use this epithet in your screenplay anyway; is that also correct?
+D_WITNESS: That is true.
+
+PROSECUTION: Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?
+D_WITNESS: I felt that you were. I don't feel adversarial toward you, but I felt that there was something negative coming from some of your questions, yes.
+
+PROSECUTION: Okay. You didn't stop him the first time he used the epithet, correct?
+nan: nan
+
+PROSECUTION: Your Honor, that has be asked and answered.
+nan: nan
+
+COURT: It has.
+nan: nan
+
+PROSECUTION: Well, you didn't stop him the twentieth time he used the epithet?
+nan: nan
+
+PROSECUTION: Asked and answered.
+nan: nan
+
+COURT: That has not. Overruled.
+nan: nan
+
+PROSECUTION: Correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: You didn't stop him the fortieth or forty-second time that he used the epithet, correct?
+",Prosecution,1,1,1,1,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.9130434782608695,0.0,1.0,12.5,7.4,1.3645367598135194,1.3647889731956924,-9.240867776338437e-05,-0.0002522133821729611
+62,"No, I don't.",simpson_defense_7,Yes.,D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+D_WITNESS: No.
+
+PROSECUTION: When Mark Fuhrman used these words in your presence why didn't you just tell him to stop?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of that question. I object to the form of that question.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: Argumentative.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
+D_WITNESS: That is accurate.
+
+PROSECUTION: And yet you use this epithet in your screenplay anyway; is that also correct?
+D_WITNESS: That is true.
+
+PROSECUTION: Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?
+D_WITNESS: I felt that you were. I don't feel adversarial toward you, but I felt that there was something negative coming from some of your questions, yes.
+
+PROSECUTION: Okay. You didn't stop him the first time he used the epithet, correct?
+nan: nan
+
+PROSECUTION: Your Honor, that has be asked and answered.
+nan: nan
+
+COURT: It has.
+nan: nan
+
+PROSECUTION: Well, you didn't stop him the twentieth time he used the epithet?
+nan: nan
+
+PROSECUTION: Asked and answered.
+nan: nan
+
+COURT: That has not. Overruled.
+nan: nan
+
+PROSECUTION: Correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: You didn't stop him the fortieth or forty-second time that he used the epithet, correct?
+D_WITNESS: I didn't abridge his dialogue or conversation during an interview, no.
+
+PROSECUTION: Given the fact that you have included this epithet in your screenplay, do you feel that it is appropriate under some circumstances to utter or use this word?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of this. Object to the form of that question.
+nan: nan
+
+COURT: Overruled. Overruled.
+nan: nan
+
+PROSECUTION: Yes.
+",Prosecution,3,3,1,4,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,1,1,0,0.9166666666666666,0.0,0.5,12.5,7.9,1.3645367598135194,1.5671598173824794,-0.06911460727042819,-0.20262305756896004
+63,"Because it is reflective of particular officers or officer's dialogue, feelings at a particular time. It is representative of what would be said.",simpson_defense_7,"Why then include it in a screenplay, a screenplay that you intend to make into a movie?",D_WITNESS,"PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize your attorneys to sell the transcript?
+D_WITNESS: No.
+
+PROSECUTION: Did you authorize them to sell the audiotapes?
+D_WITNESS: No.
+
+PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
+D_WITNESS: Have I discussed that with anyone?
+
+PROSECUTION: Yes.
+D_WITNESS: No, I have not discussed it with anyone.
+
+PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
+D_WITNESS: I have authorized my attorneys to determine the value of the tapes, yes.
+
+PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
+D_WITNESS: It is more to know what the value of the tapes were and I authorized my attorneys to do that.
+
+PROSECUTION: And that is because you were considering selling the tapes at the time?
+D_WITNESS: No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.
+
+PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
+D_WITNESS: Yes.
+
+PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
+D_WITNESS: Yes, I do.
+
+PROSECUTION: And you told me that nothing came to mind; is that correct?
+D_WITNESS: That's correct, that I couldn't remember anything coming to mind the first time. Your question was what came to mind the first time you heard that word, I believe.
+
+PROSECUTION: But you don't remember what came to mind at the time?
+D_WITNESS: No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.
+
+PROSECUTION: You don't remember a white police officer using this epithet in your presence and your not being offended by it?
+nan: nan
+
+PROSECUTION: Object to the form of that question and the tone of the voice.
+nan: nan
+
+COURT: Sustained. It is argumentative.
+nan: nan
+
+PROSECUTION: You understand that that word is the most vile word in the English language?
+D_WITNESS: I think it is one of the most vile words in the English language, yes.
+
+PROSECUTION: You think there are worse?
+D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?
+
+PROSECUTION: You wrote a screenplay, right?
+D_WITNESS: That is accurate.
+
+PROSECUTION: Did you use that word in the screenplay?
+D_WITNESS: Yes.
+
+PROSECUTION: Did you attempt to out and sell that screenplay?
+D_WITNESS: Certainly.
+
+PROSECUTION: You are using that word in your screenplay to help make money, right?
+nan: nan
+
+PROSECUTION: Object to the form of that question, your Honor. That is argumentative.
+nan: nan
+
+COURT: Sustained. Sustained.
+nan: nan
+
+PROSECUTION: You have had one screenplay published or made into a film?
+D_WITNESS: Have I had one screenplay made into a film?
+
+PROSECUTION: Yes.
+D_WITNESS: No.
+
+PROSECUTION: When Mark Fuhrman used these words in your presence why didn't you just tell him to stop?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of that question. I object to the form of that question.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: Argumentative.
+nan: nan
+
+COURT: Overruled.
+nan: nan
+
+PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
+D_WITNESS: That is accurate.
+
+PROSECUTION: And yet you use this epithet in your screenplay anyway; is that also correct?
+D_WITNESS: That is true.
+
+PROSECUTION: Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?
+D_WITNESS: I felt that you were. I don't feel adversarial toward you, but I felt that there was something negative coming from some of your questions, yes.
+
+PROSECUTION: Okay. You didn't stop him the first time he used the epithet, correct?
+nan: nan
+
+PROSECUTION: Your Honor, that has be asked and answered.
+nan: nan
+
+COURT: It has.
+nan: nan
+
+PROSECUTION: Well, you didn't stop him the twentieth time he used the epithet?
+nan: nan
+
+PROSECUTION: Asked and answered.
+nan: nan
+
+COURT: That has not. Overruled.
+nan: nan
+
+PROSECUTION: Correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: You didn't stop him the fortieth or forty-second time that he used the epithet, correct?
+D_WITNESS: I didn't abridge his dialogue or conversation during an interview, no.
+
+PROSECUTION: Given the fact that you have included this epithet in your screenplay, do you feel that it is appropriate under some circumstances to utter or use this word?
+nan: nan
+
+PROSECUTION: Your Honor, I object to the form of this. Object to the form of that question.
+nan: nan
+
+COURT: Overruled. Overruled.
+nan: nan
+
+PROSECUTION: Yes.
+D_WITNESS: No, I don't.
+
+PROSECUTION: Why then include it in a screenplay, a screenplay that you intend to make into a movie?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.92,1.0,0.0,13.5,7.9,1.6407587759701023,1.5671598173824794,0.022942900963925317,0.07359895858762289

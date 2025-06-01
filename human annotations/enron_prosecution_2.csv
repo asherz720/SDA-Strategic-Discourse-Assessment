@@ -1,0 +1,58 @@
+,answer,source,question,responder,all_history,speaker_from,relevance_rate,manner_rate,quality_rate,Committment_value,consistency_value,outcome_value,outcome_reason,annotator,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+10,"I didn't say that, sir. You did.",enron_prosecution_2,"You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?",P_WITNESS,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+",DEFENSE,1,3,2,2,0,Witness,"{'choices': ['I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",serendipity7@hanyang.ac.kr,0,1,0,1,1.0,0.4,1.0,0.4,-1.60451490647684,-0.7071067811865474,0.38821582704452073,-0.8974081252902927
+11,My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.,enron_prosecution_2,I asked you. It's a question. Answer it.,P_WITNESS,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+",DEFENSE,1,2,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,1.0,0.0,2.0,0.4,-0.7293249574894728,-0.7071067811865474,0.01546761722447337,-0.02221817630292544
+12,Myself and other members of senior management of Enron.,enron_prosecution_2,"Who's the ""we""?",P_WITNESS,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+",DEFENSE,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,0.5,0.0,2.5,0.4,-0.2917299829957892,-0.7071067811865474,-0.4158605420684451,0.4153767981907581
+13,No. They stole in different ways related to this 120 million.,enron_prosecution_2,Did they steal that 120 million?,P_WITNESS,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+",DEFENSE,1,2,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,1.0,0.0,3.5,0.4,0.583459965991578,-0.7071067811865474,-10.437525181244077,1.2905667471781253
+14,Are you asking me?,enron_prosecution_2,"Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?",P_WITNESS,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+",DEFENSE,2,4,1,4,0,Witness,I choose this side because my personal emotions and bias towards this side/the other side. [Emotions],serendipity7@hanyang.ac.kr,0,1,0,1,0.0,0.5,3.5,0.9,0.583459965991578,1.4142135623730951,-0.4158605420684455,-0.8307535963815171
+15,"What I'm saying is when you misrepresent the nature of your company, when you artificially inflate earnings, when you improperly hide losses, when you do things like this to cause your stock price to go up so you can sell your stock to cause yourself to make earning targets, that otherwise you'd be unable to make so you get high salaries and bonuses, that is stealing.",enron_prosecution_2,I'm asking you.,P_WITNESS,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+P_WITNESS: Are you asking me?
+
+DEFENSE: I'm asking you.
+",DEFENSE,1,2,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,1.0,0.0,4.5,0.9,1.4586499149789454,1.4142135623730951,0.01546761722447314,0.044436352605850216

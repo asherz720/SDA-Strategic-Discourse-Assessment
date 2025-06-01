@@ -1,0 +1,156 @@
+,answer,source,question,responder,all_history,speaker_from,relevance_rate,manner_rate,quality_rate,Committment_value,consistency_value,outcome_value,outcome_reason,annotator,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+0,Mr. Fastow.,enron_prosecution_3,Who told you there was a document?,P_WITNESS,"DEFENSE: Who told you there was a document?
+",DEFENSE,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,1.0,0.0,1.0,0.0,-1.7854147467136747,-1.4006985834715229,0.12074779625613306,-0.38471616324215185
+1,He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.,enron_prosecution_3,And did he-did he tell you anything about how the document came into existence?,P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+",DEFENSE,1,2,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,1.0,0.0,2.0,0.0,-1.1091212820494039,-1.4006985834715229,-0.11617459301669866,0.291577301422119
+2,"I have had that conversation with him, yes. ·",enron_prosecution_3,Is that just a one-on-one conversation that you and he had?,P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+",DEFENSE,1,3,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,1,0,1,0.5,0.2,2.5,0.2,-0.7709745497172685,-1.0320936930842801,-0.1448193347143052,0.2611191433670116
+3,Yes.,enron_prosecution_3,"One-on-one, right?",P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+",DEFENSE,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,0.5,0.0,3.0,0.2,-0.4328278173851331,-1.0320936930842801,-0.40907712216412245,0.599265875699147
+4,"Other than it being written down. That was all I understood, the form of the document.",enron_prosecution_3,"And did he tell you that-well, first of all, did he describe the document to you?",P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+",DEFENSE,1,3,1,1,0,Witness,I choose this side because my personal emotions and bias towards this side/the other side. [Emotions],serendipity7@hanyang.ac.kr,0,1,0,1,0.4,1.0,3.4,1.2,-0.16231043151942484,0.8109307588519341,-1.500479015780885,-0.9732411903713589
+5,My understanding was that only Mr. Fastow and Mr. Causey had copies.,enron_prosecution_3,"You don't know how many people have copies, do you?",P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+",DEFENSE,1,2,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,0.5,0.0,3.9,1.2,0.17583630081271057,0.8109307588519341,-0.64361132834639,-0.6350944580392235
+6,Mr. Fastow.,enron_prosecution_3,And who told you that?,P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+",DEFENSE,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,0.5,0.0,4.4,1.2,0.5139830331448463,0.8109307588519341,-0.2241260733345958,-0.29694772570708783
+7,That he and Mr. Causey had copies.,enron_prosecution_3,What did he say in that regard?,P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+",DEFENSE,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,0.5,0.0,4.9,1.2,0.8521297654769817,0.8109307588519341,0.0247730049642495,0.04119900662504761
+8,That's all I recall him saying about it.,enron_prosecution_3,What else did he say?,P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+",DEFENSE,1,2,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,0.5,0.0,5.4,1.2,1.1902764978091172,0.8109307588519341,0.18955844662991525,0.37934573895718304
+9,Yes.,enron_prosecution_3,He told you Rick Causey had a copy?,P_WITNESS,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+P_WITNESS: That's all I recall him saying about it.
+
+DEFENSE: He told you Rick Causey had a copy?
+",DEFENSE,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],serendipity7@hanyang.ac.kr,0,0,0,1,0.5,0.0,5.9,1.2,1.5284232301412526,0.8109307588519341,0.30670538732708574,0.7174924712893185

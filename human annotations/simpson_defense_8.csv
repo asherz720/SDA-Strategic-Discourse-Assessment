@@ -1,0 +1,1207 @@
+,answer,source,question,responder,all_history,speaker_from,relevance_rate,manner_rate,quality_rate,Committment_value,consistency_value,outcome_value,outcome_reason,annotator,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+125,"Yes, sir.",simpson_defense_8,"Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?",D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,1.0,0.5,0.0,0.5,0.0,-1.4876338639533035,-1.4439897447623107,0.014887354250129667,-0.04364411919099287
+126,"I'm unable to recall the exact date, sir.",simpson_defense_8,"And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?",D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+",Prosecution,1,2,2,4,0,Questioner,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.0,0.0,0.5,0.5,0.5,-1.4876338639533035,-1.1345633708846727,0.13464681007889429,-0.3530704930686308
+127,"On which occasion, sir?",simpson_defense_8,"Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?",D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+",Prosecution,1,3,2,4,0,Questioner,I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment],rileyzcx@connect.hku.hk,0,1,0,-0.3333333333333333,0.0,0.5,0.5,1.0,-1.4876338639533035,-0.8251369970070348,0.2864515798470318,-0.6624968669462687
+128,"Yes, sir.",simpson_defense_8,On the occasion you just described for Mr. Cochran?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.0,1.0,0.0,1.5,1.0,-1.1324958062456185,-0.8251369970070348,0.15700534274246924,-0.3073588092385837
+129,"Yes, sir.",simpson_defense_8,You filed a formal complaint?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.2,1.0,0.0,2.5,1.0,-0.7773577485379333,-0.8251369970070348,-0.029815541424975476,0.04777924846910153
+130,At this time--,simpson_defense_8,"Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?",D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+",Prosecution,3,3,3,4,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,1,1,1,0.3333333333333333,0.0,0.5,2.5,1.5,-0.7773577485379333,-0.5157106231293968,0.2023459324669422,-0.2616471254085365
+131,"I believe it was Internal Affairs, yes, sir.",simpson_defense_8,You complained to Internal Affairs Division at LAPD; is that right?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+",Prosecution,1,2,1,2,0,Witness,"{'choices': ['I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment]', 'I choose this side because my personal emotions and bias towards this side/the other side. [Emotions]']}",rileyzcx@connect.hku.hk,0,0,0,0.42857142857142855,1.0,0.0,3.5,1.5,-0.422219690830248,-0.5157106231293968,-0.0996779088037571,0.09349093229914873
+132,"Yes, sir.",simpson_defense_8,Okay. You were interviewed by them?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.5,0.5,0.0,4.0,1.5,-0.24465066197640542,-0.5157106231293968,-0.3564883779100801,0.27105996115299136
+133,I believe it was a supervising officer.,simpson_defense_8,Okay. And were you interviewed by a supervising officer at West L.A. Station as well?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+",Prosecution,1,2,2,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.5555555555555556,0.5,0.0,4.5,1.5,-0.06708163312256284,-0.5157106231293968,-0.76979229767404,0.4486289900068339
+134,"No, sir.",simpson_defense_8,Okay. And your name is Roderic T. Hodge; is that correct?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment],rileyzcx@connect.hku.hk,0,0,0,0.6,1.0,0.0,5.5,1.5,0.2880564245851224,-0.5157106231293968,-3.5306489089776303,0.8037670477145191
+135,Roderic T. Hodge.,simpson_defense_8,Okay. What is your name?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+",Prosecution,1,1,1,1,0,Questioner,I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment],rileyzcx@connect.hku.hk,0,0,0,0.45454545454545453,0.0,1.0,5.5,2.5,0.2880564245851224,0.10314212462587924,0.47268656883363214,0.18491429995924313
+136,"August 22, 1964.",simpson_defense_8,What is your birthdate?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+",Prosecution,1,1,1,3,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.5,0.5,0.0,6.0,2.5,0.46562545343896494,0.10314212462587924,0.6373136282598717,0.3624833288130857
+137,"Not really, sir, but I take it--",simpson_defense_8,"Does that refresh your recollection that the date of arrest was January 13, 1987?",D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+",Prosecution,2,4,2,1,0,Questioner,I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment],rileyzcx@connect.hku.hk,0,1,0,0.38461538461538464,0.4,1.0,6.4,3.5,0.6076806765220392,0.7219948723811552,-0.08597149579339869,-0.11431419585911606
+138,"Yes, sir, it does. It appears to be.",simpson_defense_8,Does that appear to be the complaint that you filed with LAPD?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.42857142857142855,1.0,0.0,7.4,3.5,0.9628187342297243,0.7219948723811552,0.1429379848925859,0.24082386184856908
+139,"Yes, sir, it does indicate that.",simpson_defense_8,"Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?",D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+",Prosecution,1,1,1,2,0,Witness,I choose this side because of their logical arguments are convincing.[Logical facts],rileyzcx@connect.hku.hk,0,0,0,0.4666666666666667,1.0,0.0,8.4,3.5,1.3179567919374096,0.7219948723811552,0.2921451179360822,0.5959619195562543
+140,"Yes, sir, I believe so.",simpson_defense_8,Okay. Did you have such an interview?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+",Prosecution,1,2,2,1,0,Questioner,I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment],rileyzcx@connect.hku.hk,0,0,0,0.375,0.0,1.0,8.4,4.5,1.3179567919374096,1.3408476201364312,-0.008609444190431083,-0.022890828199021662
+141,"I haven't read over the entire of the interview, sir.",simpson_defense_8,Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+D_WITNESS: Yes, sir, I believe so.
+
+PROSECUTION: Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?
+",Prosecution,2,3,2,4,0,Questioner,I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment],rileyzcx@connect.hku.hk,0,1,0,0.29411764705882354,0.0,0.5,8.4,5.0,1.3179567919374096,1.6502739940140692,-0.111958006651472,-0.3323172020766596
+142,"No, sir.",simpson_defense_8,Did you see the epithet indicated here in these documents?,D_WITNESS,"PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+D_WITNESS: Yes, sir, I believe so.
+
+PROSECUTION: Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?
+D_WITNESS: I haven't read over the entire of the interview, sir.
+
+PROSECUTION: Did you see the epithet indicated here in these documents?
+",Prosecution,1,1,1,1,0,Questioner,I choose this side because of framing of the other side as creditless/bad.[Crediblity establishment],rileyzcx@connect.hku.hk,0,0,0,0.2222222222222222,0.0,1.0,8.4,6.0,1.3179567919374096,2.269126741769345,-0.265165263338329,-0.9511699498319355
