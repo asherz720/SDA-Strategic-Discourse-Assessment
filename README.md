@@ -4,7 +4,7 @@ This repository accompanies our paper:
 
 **CoBRA** (*Co*operation-*Br*each *R*esponse *A*ssessment):  
 **Quantifying Strategic Language Use and LLM Pragmatics**
-![Alt text](fig.png)
+![Alt text](figure/fig.png)
 ---
 
 ## 🧠 Abstract
