@@ -34,6 +34,7 @@ Using CoBRA, we evaluate a range of LLMs and show that:
 | `Metrics_cal.py`        | Calculates the CoBRA metrics: BaT, PaT, and NRBaT. |
 | `Agreement_corr_cal.py` | Computes correlation and agreement with human annotations. |
 | `pipeline.py`           | End-to-end pipeline for metric calculation and evaluation. |
+| `Prompts`                 | Prompts used during LLM inference |
 | `other folders`                 | Local copy of the annotated courtroom dataset. |
 
 ---
