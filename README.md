@@ -43,7 +43,7 @@ Using CoBRA, we evaluate a range of LLMs and show that:
 The annotated courtroom dataset is provided in two ways:
 
 - ✅ On Hugging Face: [UT-CompLing/CHARM](https://huggingface.co/datasets/UT-CompLing/CHARM)  
-- ✅ Locally in the `data/` directory of this repo
+- ✅ Locally in the e.g., human_annotations directory of this repo
 
 ---
 
