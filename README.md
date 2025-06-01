@@ -17,7 +17,7 @@ To address this, we introduce **CoBRA**, a novel framework designed to measure t
 - **Penalty at Turn** (*PaT*) 📉  
 - **Normalized Relative Benefit at Turn** (*NRBaT*) ⚖️
 
-We also present **\dataset**, an annotated dataset of real courtroom cross-examinations, to demonstrate the framework’s effectiveness.
+We also present **CHARM**, an annotated dataset of real courtroom cross-examinations, to demonstrate the framework’s effectiveness.
 
 Using CoBRA, we evaluate a range of LLMs and show that:
 
