@@ -69,5 +69,13 @@ To evaluate new models:
 ---
 
 ## 📄 Citation
+```bibtex
+@inproceedings{Zheng2025CoBRAQS,
+  title={CoBRA: Quantifying Strategic Language Use and LLM Pragmatics},
+  author={Anshun Asher Zheng and Junyi Jessy Li and David Beaver},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:279075820}
+}
+
 
 Pending.
