@@ -76,6 +76,3 @@ To evaluate new models:
   year={2025},
   url={https://api.semanticscholar.org/CorpusID:279075820}
 }
-
-
-Pending.
