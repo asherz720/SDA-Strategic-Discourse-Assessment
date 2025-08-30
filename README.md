@@ -2,8 +2,8 @@
 
 This repository accompanies our paper:
 
-**CoBRA** (*Co*operation-*Br*each *R*esponse *A*ssessment):  
-**Quantifying Strategic Language Use and LLM Pragmatics**
+**SDA** (*S*trategic-*D*iscourse *A*ssessment):  
+**the Crooked Path to Innocence**
 ![Alt text](figure/fig.png)
 ---
 
@@ -11,15 +11,15 @@ This repository accompanies our paper:
 
 Language is frequently used **strategically**, especially in **high-stakes, adversarial settings** such as courtroom discourse. However, most existing work on LLM pragmatics emphasizes **cooperativity**, leaving a gap in our systematic understanding of **non-cooperative discourse**.
 
-To address this, we introduce **CoBRA**, a novel framework designed to measure the strategic impact of discourse through three interpretable metrics:
+To address this, we introduce **SDA**, a novel framework designed to measure the strategic impact of discourse through three interpretable metrics:
 
 - **Benefit at Turn** (*BaT*) 📈  
 - **Penalty at Turn** (*PaT*) 📉  
 - **Normalized Relative Benefit at Turn** (*NRBaT*) ⚖️
 
-We also present **CHARM**, an annotated dataset of real courtroom cross-examinations, to demonstrate the framework’s effectiveness.
+We also present **CPD**, an annotated dataset of real courtroom cross-examinations, to demonstrate the framework’s effectiveness.
 
-Using CoBRA, we evaluate a range of LLMs and show that:
+Using SDA, we evaluate a range of LLMs and show that:
 
 - LLMs exhibit **limited pragmatic understanding** of strategic language.  
 - **Model size** improves performance on our metrics.  
@@ -31,7 +31,7 @@ Using CoBRA, we evaluate a range of LLMs and show that:
 
 | File/Folder             | Description |
 |-------------------------|-------------|
-| `Metrics_cal.py`        | Calculates the CoBRA metrics: BaT, PaT, and NRBaT. |
+| `Metrics_cal.py`        | Calculates the SDA metrics: BaT, PaT, and NRBaT. |
 | `Agreement_corr_cal.py` | Computes correlation and agreement with human annotations. |
 | `pipeline.py`           | End-to-end pipeline for metric calculation and evaluation. |
 | `Prompts`                 | Prompts used during LLM inference |
@@ -43,7 +43,7 @@ Using CoBRA, we evaluate a range of LLMs and show that:
 
 The annotated courtroom dataset is provided in two ways:
 
-- ✅ On Hugging Face: [UT-CompLing/CHARM](https://huggingface.co/datasets/UT-CompLing/CHARM)  
+- ✅ On Hugging Face: [UT-CompLing/CPD](https://huggingface.co/datasets/UT-CompLing/CPD)  
 - ✅ Locally in the e.g., human_annotations directory of this repo
 
 ---
