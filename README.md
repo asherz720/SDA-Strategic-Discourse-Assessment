@@ -1,4 +1,4 @@
-# CoBRA: Quantifying Strategic Language Use and LLM Pragmatics
+# Strategic Discourse Assessment: the Crooked Path to Innocence
 
 This repository accompanies our paper:
 
